@@ -16,7 +16,7 @@ Tianyu Yin (尹天雨) is an undergraduate with [School of Electronic and Inform
 
 + [05/2022] Participated in the Lan Qiao Cup single-chip microcomputer group and won the first prize in Jiangsu Province, ranking fourth in Jiangsu Province.
 
-  <center><img src="/images/lanqiao.jpg" alt="Lan Qiao"></center>
+  <center><img src="/images/lanqiao.png" alt="Lan Qiao"></center>
 
 + [05/2022] Participated in Tencent Cloud Qualification Test and obtained CloudLite CVM certification.
 
