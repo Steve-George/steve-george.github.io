@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2063-6917"
   pinterest        :
   soundcloud       :
-  stackoverflow    : “19184661/steve-george” # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/19184661/steve-george" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
