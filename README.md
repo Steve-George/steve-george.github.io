@@ -1,2 +1,2 @@
 # steve-george.github.io
-Personal website.
+Personal website. Powered by Github Pages.
