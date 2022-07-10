@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianyu Yin (尹天雨) / Student"
+title                    : "Tianyu Yin (尹天雨)"
 title_separator          : "-"
 name                     : &name "Tianyu Yin"
 description              : &description "Student at Soochow University"
