@@ -18,6 +18,10 @@ Tianyu Yin (尹天雨) is an undergraduate with [School of Electronic and Inform
 
   <center><img src="/images/lanqiao.jpg" alt="Lan Qiao"></center>
 
++ [05/2022] Participated in Tencent Cloud Qualification Test and obtained CloudLite CVM certification.
+
+  <center><img src="/images/CloudLite.jpg" alt="CloudLite"></center>
+
 + [11/2021] Start live streaming of C language courses on Bilibili to help students learn programming better. At the same time, the video of each live broadcast was uploaded to the video platform, and 6 works copyright registration certificates supervised by the National Copyright Administration were applied for.
 
   <center><img src="/images/Copyright.png" alt="Copyright Certificates"></center>
