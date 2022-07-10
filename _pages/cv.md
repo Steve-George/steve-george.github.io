@@ -24,9 +24,9 @@ Work experience
 Awards
 ======
 
-The National Third Prize of the Lan Qiao Cup SCM Group
+* The National Third Prize of the Lan Qiao Cup SCM Group
 
-The First Prize of Jiangsu Province in the Lan Qiao Cup SCM group
+* The First Prize of Jiangsu Province in the Lan Qiao Cup SCM group
 
 
 
