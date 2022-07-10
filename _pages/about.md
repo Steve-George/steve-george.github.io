@@ -18,6 +18,8 @@ Tianyu Yin (尹天雨) is an undergraduate with [School of Electronic and Inform
 
 <center><img src="/images/PPT.png" alt="Class Committee Election" ></center>
 
+
+
 [11/2021] Start live streaming of C language courses on Bilibili to help students learn programming better. At the same time, the video of each live broadcast was uploaded to the video platform, and 6 works copyright registration certificates supervised by the National Copyright Administration were applied for.
 
-<center><img src="/images/PPT.png" alt="Class Committee Election"></center>
+<center><img src="/images/Copyright.png" alt="Class Committee Election"></center>
