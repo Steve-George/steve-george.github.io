@@ -16,4 +16,6 @@ Tianyu Yin (尹天雨) is an undergraduate with [School of Electronic and Inform
 
 [10/2021] Entered the School of Electronic and Information Engineering of Soochow University to study, and was successfully elected as the study committee member in the class committee election.
 
-<center>[Class Committee Election](/images/PPT.png)</center>
+<center><img src="/images/PPT.png" alt="Class Committee Election"></center>
+
+[]
