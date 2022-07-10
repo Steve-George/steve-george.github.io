@@ -18,6 +18,7 @@ Work experience
 * Summer 2015: Chief R&D Director
   * CPH Global Laboratory
   * Duties included: Tagging issues
+
 Skills
 ======
 * Embedded hardware development
